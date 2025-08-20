@@ -27,10 +27,7 @@ your-repo/
    cd voice-enabled-prescription-generator
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install dependencies: mention in the python files (check comments)
 
 3. Install **FFmpeg** (required for `pydub`):
    - Windows:  
